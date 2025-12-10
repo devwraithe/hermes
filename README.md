@@ -1,6 +1,6 @@
-# Encode T8 DEX
+# **Hermes Protocol**
 
-An educational decentralized exchange (DEX) project built on Solana using the Anchor framework for the Encode Bootcamp. This project implements an automated market maker (AMM) with constant product formula (x \* y = k), similar to Uniswap V2.
+Hermes Protocol is an educational decentralized exchange (DEX) built on Solana using the Anchor framework. It features a constant-product Automated Market Maker (AMM) inspired by Uniswap V2 (x · y = k), enabling users to swap tokens, add liquidity, and earn fees through permissionless, on-chain liquidity pools.
 
 ## 🌟 Features
 
