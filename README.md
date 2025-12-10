@@ -1,6 +1,6 @@
 # **Hermes Protocol**
 
-Hermes Protocol is an educational decentralized exchange (DEX) built on Solana using the Anchor framework. It features a constant-product Automated Market Maker (AMM) inspired by Uniswap V2 (x · y = k), enabling users to swap tokens, add liquidity, and earn fees through permissionless, on-chain liquidity pools.
+Hermes Protocol is a decentralized exchange (DEX) on Solana that implements a constant-product Automated Market Maker (AMM) (x · y = k), enabling permissionless token swaps, liquidity provision, and fee earning. The project is named after Hermes, the Greek god of trade, commerce, and swift communication, symbolizing the protocol’s goal of fast, efficient, and seamless asset exchange on-chain.
 
 ## 🌟 Features
 
